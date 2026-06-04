@@ -1,5 +1,6 @@
 package objectville;
 
+//Arda
 public abstract class Cell {
 
     protected int row;
