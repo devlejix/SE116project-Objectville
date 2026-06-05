@@ -1,5 +1,5 @@
 package objectville;
-
+//Berkay
 public class School extends ServiceBuilding {
     public School(int row, int col) { super(row, col, 4); }
 
